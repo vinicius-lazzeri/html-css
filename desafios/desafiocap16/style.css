@@ -105,15 +105,12 @@ div{
     border-radius: 0px 0px 8px 8px;
 }
 div > article > picture{
-    display: flex;
-    justify-content: center;
+    display: block;
     text-align: center;
+    min-width: 280;
+    max-width: 1000px;
 }
-div > article > img{
-    margin: auto;
-    display: flex;
-    justify-content: center;
-}
+
 div.video{
     background-color: var(--cor5);
     margin: 0px -20px 30px -20px;
