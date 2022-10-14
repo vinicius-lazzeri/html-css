@@ -29,7 +29,7 @@
     padding: 0px;
 }
 main{
-    min-width: 280px;
+    min-width: 300px;
     max-width: 1000px;
     margin: auto;
     margin-bottom: 10px;
@@ -97,8 +97,6 @@ nav > a:hover{
 
 div{
     background-color: white;
-    min-width: 280px;
-    max-width: 1000px;
     height: auto;
     text-align: left;
     margin: 0px auto;
@@ -108,8 +106,6 @@ div{
 div > article > picture{
     display: block;
     text-align: center;
-    min-width: 280;
-    max-width: 1000px;
 }
 
 div.video{
